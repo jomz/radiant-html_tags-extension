@@ -1,0 +1,2 @@
+module RadiantHtmlTagsExtension
+end
